@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name" translatable="false">Infinity Badminton</string>
+    <string name="sign_out">Sign out</string>
+    <string name="name">Name:</string>
+    <string name="topic">Topic:</string>
+    <string name="read">Read</string>
+    <string name="training_advice_activity_description">Please submit the form to seek training advice, tips, and guidance on how to improve your badminton techniques and tactics. </string>
+    <string name="badminton_tutorials">Badminton Tutorials</string>
+    <string name="training_advice">Training Advice</string>
+    <string name="submit">Submit</string>
+    <string name="about_us">About us</string>
+    <string name="introduction">We aim to create a mobile learning platform for badminton enthusiasts, providing professional and advanced training guidance and support to players at various skill levels to improve badminton techniques and tactics. \nOur app is authentic information-based, which is straightforward, educational, and easy to use. \nWe provide a multifunctional seamless learning environment that enables users to have “coaches” whenever and wherever they play.</string>
+    <string name="qianzi_zhang_qz2175_tc_columbia_edu" translatable="false">Qianzi Zhang: qz2175@tc.columbia.edu</string>
+    <string name="ruoxi_feng_rf2722_tc_columbia_edu" translatable="false">Ruoxi Feng: rf2722@tc.columbia.edu</string>
+    <string name="ep1">1. Backcourt high position shots</string>
+    <string name="dur1" translatable="false">4:41</string>
+    <string name="dur2" translatable="false">9:14</string>
+    <string name="ep2">2. Frontcourt backhand shots</string>
+    <string name="ep3">3. Backcourt backhand</string>
+    <string name="dur3" translatable="false">9:00</string>
+    <string name="tutorial_list">Tutorial List</string>
+    <string name="coach_list">Coach List</string>
+    <string name="jie_xiao">1. Ms. Jie Xiao</string>
+    <string name="email_xiao">Email: Xiaojie@gmail.com</string>
+    <string name="jieinfo">The One and Only Professor and Doctoral Advisor in Badminton in China\nWinner of Women\'s Singles and Women\'s Doubles of the 2000 National Capital ("DC") Open</string>
+    <string name="chibing">2. Mr. Chibing Wu</string>
+    <string name="email_chi">Email: ChibingWu@gmail.com</string>
+    <string name="chiinfo">The Founder and Head Coach for New York City Badminton Club\nThe Certified National Badminton Coach in the US</string>
+    <string name="singhua">3. Mr. Songhua Tang</string>
+    <string name="email_sing">Email: SonghuaTang@gmail.com</string>
+    <string name="singinfo">Former Professional Player\nThe Successor of the World-Renowned Tang Style Badminton Training</string>
+    <string name="date1">2020 June 02 – 07</string>
+    <string name="tour1">CIPUTRA HANOI - YONEX SUNRISE Vietnam International Challenge 2020</string>
+    <string name="location1">Location: Hanoi Vietnam</string>
+    <string name="buy_ticket">More info</string>
+    <string name="tour2">IBERDROLA Spanish International 2020</string>
+    <string name="date2">2020 June 10 – 13</string>
+    <string name="location2">Location: Madrid Spain</string>
+    <string name="tour3">B.A.B.B. German International 2020</string>
+    <string name="date3">2020 June 10 – 13</string>
+    <string name="location3">Location: Bonn German</string>
+    <string name="coach_name">Coach name</string>
+    <string name="email_address">email</string>
+    <string name="tournament_list">Tournament</string>
+    <string name="button">Button</string>
+    <string name="tour4">VICTOR Malaysia International Series 2020</string>
+    <string name="tour5">Styrian International 2020</string>
+    <string name="tour6">YONEX US Open 2020</string>
+    <string name="date4">2020 June 16 – 20</string>
+    <string name="location4">Location: Kuala Lumpur Malaysia</string>
+    <string name="date5">2020 JUNE 18 -21</string>
+    <string name="location5">Location: Graz Austria</string>
+    <string name="date6">2020 JUNE 23 – 28</string>
+    <string name="location6">Location: Fullerton, California USA</string>
+    <string name="ep4">4. Basic Footwork</string>
+    <string name="dur4" translatable="false">4:58</string>
+    <string name="ep5">5. Back court hitting position, Forehand slice technique</string>
+    <string name="dur5" translatable="false">9:22</string>
+    <string name="ep6">6. Forehand service technique</string>
+    <string name="dur6" translatable="false">4:36</string>
+    <string name="dur7" translatable="false">5:32</string>
+    <string name="ep7">7. Service Action</string>
+    <string name="ep8">8. Footwork, Backhand Grip</string>
+    <string name="dur8" translatable="false">8:26</string>
+    <string name="ep9">9. XD positioning for returning serve</string>
+    <string name="dur9" translatable="false">8:12</string>
+    <string name="ep10">10. Tactics for guarding the net</string>
+    <string name="dur10" translatable="false">5:47</string>
+    <string name="ep11">11. Effective Footwork, Hit a proper drop shot</string>
+    <string name="dur11" translatable="false">9:54</string>
+    <string name="ep12">12. Backhand net shot</string>
+    <string name="dur12" translatable="false">4:06</string>
+    <string name="ep13">13. Hit a fast and tight slicing drop shot from backcourt</string>
+    <string name="dur13" translatable="false">6:46</string>
+    <string name="ep14">14. Improve the forehand push-shot from forecourt</string>
+    <string name="dur14" translatable="false">7:03</string>
+    <string name="ep15">15. Full Court Footwork</string>
+    <string name="dur15" translatable="false">7:12</string>
+    <string name="ep16">16. The details of quick, Efficient movement</string>
+    <string name="dur16" translatable="false">6:46</string>
+    <string name="title_activity_badminton_intro" translatable="false">BadmintonIntroActivity</string>
+    <string name="tab_text_1" translatable="false">Tab 1</string>
+    <string name="tab_text_2" translatable="false">Tab 2</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="more">more</string>
+    <string name="email">Email:</string>
+    <string name="find_us">Find us:</string>
+    <string name="location">Location: Dodge Physical Fitness Center \nAddress: 3030 Broadway, New York, NY 10027</string>
+    <string name="general_rules">General Rules</string>
+    <string name="singles">Singles</string>
+    <string name="doubles">Doubles</string>
+    <string name="chibing_wu">Chibing Wu</string>
+    <string name="chibinwu_intro">\n- 1996 – present: Founder and Head coach for NYC Badminton Club\n\n - 2015: Head coach for Pan American Team\n\n - 2014: USAB Certified HIGH PERFORMANCE COACH Level 4\n\n - 2003: 1st place in Men’s Doubles in BOSTON OPEN.\n\n - 2002: 1st place in Men’s Single in BOSTON OPEN.\n\n - 2000: 1st place in Men’s Doubles and Mixed Doubles, 3rd place in Men’s Single in USA National Championship.\n\n - 1997: as replacement coach for USA Olympic Team at Olympic Training Center in Colorado Spring.\n\n - 1992 – 1996: Head coach for Spain National Olympic Team.\n\n - 1992: Award as International Sports Master by China National Sports Federation.\n\n - 1987 – 1992: Member of China National Team.\n</string>
+    <string name="contact">contact</string>
+    <string name="play">Play</string>
+    <string name="get">Get</string>
+    <string name="badminton_rules">Badminton Rules</string>
+    <string name="court_search">Court Search</string>
+    <string name="tournaments">Tournaments</string>
+    <string name="get_report">Get Report</string>
+    <string name="coaches">Coaches</string>
+    <string name="issue">Issue:</string>
+    <string name="goal">Goal:</string>
+    <string name="description">Description (Basic Information):</string>
+    <string name="tab1_2">1. When the leading score reaches 11 points, players have a 60 second interval.\n\n2. A 2 minute interval between each game is allowed.\n\n3. In the third game, players change ends when the leading score reaches 11 points.\n</string>
+    <string name="interval_and_change_of_ends">Interval and Change of Ends</string>
+    <string name="tab1_1">1. A match consists of the best of 3 games of 21 points.\n\n2. Every time there is a serve - three is a point scored.\n\n3. The side winning a rally adds a point to its score.\n\n4. At 20 all, the side which gains a 2 point lead first, wins that game.\n\n5. At 29 all, the side scoring the 30th point, wins that game.\n\n6. The side winning a game serves first in the next game.</string>
+    <string name="scoring_system">Scoring System</string>
+    <string name="singles_rule">1. At the beginning of the game (0–0) and when the server’s score is even, the server serves from the right service court. When the server’s score is odd, the server serves from the left service court.\n\n2. If the server wins a rally, the server scores a point and then serves again from the alternate service court.\n\n3. If the receiver wins a rally, the receiver scores a point and becomes the new server. They serve from the appropriate service court – left if their score is odd, and right if it is even.</string>
+    <string name="tab3_1">1. A side has only one ‘service’.\n\n2. The service passes consecutively to the players as shown in the diagram.\n</string>
+    <string name="tab3_2">3. At the beginning of the game and when the score is even, the server serves from the right service court. When it is odd, the server serves from the left court.\n\n4. If the serving side wins a rally, the serving side scores a point and the same server serves again from the alternate service court.\n\n5. If the receiving side wins a rally, the receiving side scores a point. The receiving side becomes the new serving side.\n\n6. The players do not change their respective service courts until they win a point when their side is serving.\n\n</string>
+    <string name="report_code">Please type in your report code here</string>
+    <string name="office">Office</string>
+    <string name="contact_us">Contact us</string>
+    <string name="location_dodge_physical_fitness_center_naddress_3030_broadway_new_york_ny_10027_n">"Location: Dodge Physical Fitness Center  Address: 3030 Broadway, New York, NY 10027 "</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="description_basic_information">Description (Basic Information):</string>
+    <string name="back_to_tutorial_lists">Back To Tutorial Lists</string>
+    <string name="songhua_tang">Songhua Tang</string>
+    <string name="jie_xiao_info">Jie Xiao</string>
+    <string name="jie_xiao_full_intro">\n - Professor, Capital University of Physical Education and Sports Graduate School\n\n - Former National Badminton Player, Master Athlete\n\n - 1986 Dutch WorldBadminton Open (First Place, Women’s Singles)\n\n - 1986 Belgian World Badminton Open (First Place, Women’s Singles)\n\n - 2000 Washington DC Badminton Open (First Place, Women\'s Singles. First Place, Women\'s Doubles)\n\n - Head Coach of IBF World Training Center\n\n - Supervising Professor of International Olympic Committee\n\n - Badminton Committee Member of Chinese Sports Vocational Skill Evaluation Expert Instructors Committee\n\n - 2016 Awarded the title of “Outstanding Trainer of National Vocational Qualification in Sports Industry”, awarded by the General Administration of Sport of China\n\n - Screenwriter and the coach of demonstration and explanation in Badminton – Instruction from Experts, created by Chinese Central Television in 2006.\n</string>
+    <string name="songhua_full_intro">\nSonghua Tang is the successor of the world- renowned Tang-style badminton training, as the son of Xianhu Tang, who has led and accompanied the Chinese Badminton team in many successful campaigns at the Olympics, World Championships, and Asian Games since 1980s, and was inducted into the International Badminton Federation Hall of Fame in 2002. \n</string>
+</resources>
